@@ -1,0 +1,5 @@
+{
+  "name": "PokéBattle Arena",
+  "description": "A round-by-round Pokémon battle simulator using real stats and narration powered by PokeAPI.",
+  "requestFramePermissions": []
+}
